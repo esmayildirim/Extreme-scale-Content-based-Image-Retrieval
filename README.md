@@ -1,4 +1,4 @@
-# Extreme-scale-Content-based-Image-Retrieval-Application
+# Extreme-scale-Content-based-Image-Retrieval
 
 A hybrid MPI-OpenMP Workflow for searching cancerous patterns in large tissue slide images (Whole Slide Images)
 
